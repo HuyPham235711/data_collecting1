@@ -1,0 +1,1026 @@
+[
+    {
+        "Meta Data":"Intraday (5min) open, high, low, close prices and volume",
+        "Time Series (5min)":null
+    },
+    {
+        "Meta Data":"TSLA",
+        "Time Series (5min)":null
+    },
+    {
+        "Meta Data":"2024-11-01 19:55:00",
+        "Time Series (5min)":null
+    },
+    {
+        "Meta Data":"5min",
+        "Time Series (5min)":null
+    },
+    {
+        "Meta Data":"Compact",
+        "Time Series (5min)":null
+    },
+    {
+        "Meta Data":"US\/Eastern",
+        "Time Series (5min)":null
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.2460",
+            "2. high":"249.3700",
+            "3. low":"249.2200",
+            "4. close":"249.3000",
+            "5. volume":"14269"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.1700",
+            "2. high":"249.2800",
+            "3. low":"249.1700",
+            "4. close":"249.2200",
+            "5. volume":"9978"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.0750",
+            "2. high":"249.1750",
+            "3. low":"249.0500",
+            "4. close":"249.1700",
+            "5. volume":"8134"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.0800",
+            "2. high":"249.1000",
+            "3. low":"249.0500",
+            "4. close":"249.0800",
+            "5. volume":"8240"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.1800",
+            "2. high":"249.1800",
+            "3. low":"249.1000",
+            "4. close":"249.1000",
+            "5. volume":"6238"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.1500",
+            "2. high":"249.1600",
+            "3. low":"249.1000",
+            "4. close":"249.1600",
+            "5. volume":"4422"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.1400",
+            "2. high":"249.2000",
+            "3. low":"249.1400",
+            "4. close":"249.1599",
+            "5. volume":"1661"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.1750",
+            "2. high":"249.2000",
+            "3. low":"249.1400",
+            "4. close":"249.1401",
+            "5. volume":"4261"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.1400",
+            "2. high":"249.2000",
+            "3. low":"249.1400",
+            "4. close":"249.1500",
+            "5. volume":"4249"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.1500",
+            "2. high":"249.1900",
+            "3. low":"249.1400",
+            "4. close":"249.1499",
+            "5. volume":"3312"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.3000",
+            "2. high":"249.3000",
+            "3. low":"249.1500",
+            "4. close":"249.1900",
+            "5. volume":"4003"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.3400",
+            "2. high":"249.3400",
+            "3. low":"249.2900",
+            "4. close":"249.2999",
+            "5. volume":"4861"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.2400",
+            "2. high":"249.3700",
+            "3. low":"249.2000",
+            "4. close":"249.3400",
+            "5. volume":"6586"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.2800",
+            "2. high":"249.3500",
+            "3. low":"249.2000",
+            "4. close":"249.2800",
+            "5. volume":"6936"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.3700",
+            "2. high":"249.3900",
+            "3. low":"249.2300",
+            "4. close":"249.2900",
+            "5. volume":"6990"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.3500",
+            "2. high":"249.3700",
+            "3. low":"249.2900",
+            "4. close":"249.3600",
+            "5. volume":"4164"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.3200",
+            "2. high":"249.3500",
+            "3. low":"249.2700",
+            "4. close":"249.3500",
+            "5. volume":"4562"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.3200",
+            "2. high":"249.3700",
+            "3. low":"249.2600",
+            "4. close":"249.2950",
+            "5. volume":"3533"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.2700",
+            "2. high":"249.3400",
+            "3. low":"249.2200",
+            "4. close":"249.3400",
+            "5. volume":"4510"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.2300",
+            "2. high":"249.2900",
+            "3. low":"249.2000",
+            "4. close":"249.2137",
+            "5. volume":"4427"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.2700",
+            "2. high":"249.2700",
+            "3. low":"249.2000",
+            "4. close":"249.2600",
+            "5. volume":"4331"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.2350",
+            "2. high":"249.3100",
+            "3. low":"248.9800",
+            "4. close":"249.2100",
+            "5. volume":"49496"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.2300",
+            "2. high":"249.4000",
+            "3. low":"249.2000",
+            "4. close":"249.2100",
+            "5. volume":"4002"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.1500",
+            "2. high":"249.3300",
+            "3. low":"249.1400",
+            "4. close":"249.1850",
+            "5. volume":"5410"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.1400",
+            "2. high":"249.2050",
+            "3. low":"248.9800",
+            "4. close":"249.1600",
+            "5. volume":"731234"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.2700",
+            "2. high":"249.3300",
+            "3. low":"249.1100",
+            "4. close":"249.1100",
+            "5. volume":"6373"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.3300",
+            "2. high":"249.3500",
+            "3. low":"249.2100",
+            "4. close":"249.2700",
+            "5. volume":"8225"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.3100",
+            "2. high":"249.3400",
+            "3. low":"249.2800",
+            "4. close":"249.3400",
+            "5. volume":"9551"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.3000",
+            "2. high":"249.3400",
+            "3. low":"249.2900",
+            "4. close":"249.3150",
+            "5. volume":"2117"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.2500",
+            "2. high":"249.3300",
+            "3. low":"248.9800",
+            "4. close":"249.3100",
+            "5. volume":"19340"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.3000",
+            "2. high":"249.3400",
+            "3. low":"249.2100",
+            "4. close":"249.2550",
+            "5. volume":"7444"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.3100",
+            "2. high":"249.3400",
+            "3. low":"249.2500",
+            "4. close":"249.3400",
+            "5. volume":"4442"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.2500",
+            "2. high":"249.3200",
+            "3. low":"248.9800",
+            "4. close":"249.3100",
+            "5. volume":"433719"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.1800",
+            "2. high":"249.2900",
+            "3. low":"249.1100",
+            "4. close":"249.2500",
+            "5. volume":"8298"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.1100",
+            "2. high":"249.2000",
+            "3. low":"249.1000",
+            "4. close":"249.1750",
+            "5. volume":"3915"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.1700",
+            "2. high":"249.2400",
+            "3. low":"249.0900",
+            "4. close":"249.1300",
+            "5. volume":"6961"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.1500",
+            "2. high":"249.2700",
+            "3. low":"235.4799",
+            "4. close":"249.2100",
+            "5. volume":"8863"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.1200",
+            "2. high":"255.1777",
+            "3. low":"237.6031",
+            "4. close":"249.2200",
+            "5. volume":"16475"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.1100",
+            "2. high":"249.2000",
+            "3. low":"249.0400",
+            "4. close":"249.0800",
+            "5. volume":"15070"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.1100",
+            "2. high":"249.1500",
+            "3. low":"249.0300",
+            "4. close":"249.1400",
+            "5. volume":"7060"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.1100",
+            "2. high":"249.1500",
+            "3. low":"248.9800",
+            "4. close":"249.0300",
+            "5. volume":"8564"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.0500",
+            "2. high":"249.1500",
+            "3. low":"248.9700",
+            "4. close":"249.0750",
+            "5. volume":"40825"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.9800",
+            "2. high":"249.1500",
+            "3. low":"248.9200",
+            "4. close":"249.0500",
+            "5. volume":"15384"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.9600",
+            "2. high":"249.0500",
+            "3. low":"248.8500",
+            "4. close":"248.9700",
+            "5. volume":"15131"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.0300",
+            "2. high":"249.1500",
+            "3. low":"248.9100",
+            "4. close":"249.0100",
+            "5. volume":"17903"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.9500",
+            "2. high":"249.1600",
+            "3. low":"248.9100",
+            "4. close":"248.9800",
+            "5. volume":"35984"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.9500",
+            "2. high":"249.0900",
+            "3. low":"248.8141",
+            "4. close":"248.9450",
+            "5. volume":"31117"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.8500",
+            "2. high":"250.0309",
+            "3. low":"248.8500",
+            "4. close":"248.9400",
+            "5. volume":"4543408"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.9300",
+            "2. high":"249.3599",
+            "3. low":"248.7300",
+            "4. close":"248.8500",
+            "5. volume":"1544785"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.6600",
+            "2. high":"249.0000",
+            "3. low":"248.1100",
+            "4. close":"248.9583",
+            "5. volume":"737091"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.8700",
+            "2. high":"248.9899",
+            "3. low":"248.5200",
+            "4. close":"248.6900",
+            "5. volume":"567605"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.9950",
+            "2. high":"249.3300",
+            "3. low":"248.8676",
+            "4. close":"248.9299",
+            "5. volume":"415221"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.9700",
+            "2. high":"249.0854",
+            "3. low":"248.7000",
+            "4. close":"248.9950",
+            "5. volume":"301028"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.1200",
+            "2. high":"249.2899",
+            "3. low":"248.7100",
+            "4. close":"249.0024",
+            "5. volume":"434380"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.1000",
+            "2. high":"249.2800",
+            "3. low":"248.8500",
+            "4. close":"249.1700",
+            "5. volume":"281478"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.4300",
+            "2. high":"249.4900",
+            "3. low":"248.8941",
+            "4. close":"249.0600",
+            "5. volume":"397127"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.1100",
+            "2. high":"249.5500",
+            "3. low":"248.8201",
+            "4. close":"249.4434",
+            "5. volume":"557088"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.5601",
+            "2. high":"249.2700",
+            "3. low":"248.4800",
+            "4. close":"249.1250",
+            "5. volume":"642668"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.1400",
+            "2. high":"248.6699",
+            "3. low":"247.9900",
+            "4. close":"248.5700",
+            "5. volume":"460994"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.0135",
+            "2. high":"248.1700",
+            "3. low":"247.7000",
+            "4. close":"248.1250",
+            "5. volume":"325133"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"247.6898",
+            "2. high":"248.1100",
+            "3. low":"247.4500",
+            "4. close":"248.0300",
+            "5. volume":"300793"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"247.7000",
+            "2. high":"247.9000",
+            "3. low":"247.6000",
+            "4. close":"247.6300",
+            "5. volume":"244756"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.0300",
+            "2. high":"248.1300",
+            "3. low":"247.5300",
+            "4. close":"247.6600",
+            "5. volume":"330681"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.0750",
+            "2. high":"248.3100",
+            "3. low":"247.7300",
+            "4. close":"248.0363",
+            "5. volume":"308931"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.3408",
+            "2. high":"248.3800",
+            "3. low":"247.7700",
+            "4. close":"248.0400",
+            "5. volume":"327780"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.2300",
+            "2. high":"248.3900",
+            "3. low":"248.0000",
+            "4. close":"248.3450",
+            "5. volume":"354822"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.0877",
+            "2. high":"248.3800",
+            "3. low":"247.9500",
+            "4. close":"248.2250",
+            "5. volume":"402638"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"247.5399",
+            "2. high":"248.1200",
+            "3. low":"247.3200",
+            "4. close":"248.0800",
+            "5. volume":"433613"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"247.6300",
+            "2. high":"247.9400",
+            "3. low":"247.5100",
+            "4. close":"247.5100",
+            "5. volume":"368910"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"247.1999",
+            "2. high":"247.7000",
+            "3. low":"246.8801",
+            "4. close":"247.6350",
+            "5. volume":"411840"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"247.3330",
+            "2. high":"247.3699",
+            "3. low":"246.8100",
+            "4. close":"247.2200",
+            "5. volume":"383944"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"246.8600",
+            "2. high":"247.4800",
+            "3. low":"246.8200",
+            "4. close":"247.3700",
+            "5. volume":"490823"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"247.7300",
+            "2. high":"247.7700",
+            "3. low":"246.8100",
+            "4. close":"246.8694",
+            "5. volume":"594520"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"247.3532",
+            "2. high":"247.9300",
+            "3. low":"247.3200",
+            "4. close":"247.7568",
+            "5. volume":"332765"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"247.2771",
+            "2. high":"247.5400",
+            "3. low":"247.0900",
+            "4. close":"247.2901",
+            "5. volume":"323754"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"247.5159",
+            "2. high":"247.5159",
+            "3. low":"247.1200",
+            "4. close":"247.2850",
+            "5. volume":"326071"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"247.8950",
+            "2. high":"248.0888",
+            "3. low":"247.4001",
+            "4. close":"247.5099",
+            "5. volume":"497639"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.5101",
+            "2. high":"248.7168",
+            "3. low":"247.7500",
+            "4. close":"247.9700",
+            "5. volume":"633268"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.3200",
+            "2. high":"248.6800",
+            "3. low":"248.1600",
+            "4. close":"248.5455",
+            "5. volume":"684987"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"247.8200",
+            "2. high":"248.4000",
+            "3. low":"247.6700",
+            "4. close":"248.3100",
+            "5. volume":"500223"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"247.6200",
+            "2. high":"247.8800",
+            "3. low":"247.5400",
+            "4. close":"247.8050",
+            "5. volume":"340377"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"246.8599",
+            "2. high":"247.7599",
+            "3. low":"246.7500",
+            "4. close":"247.6237",
+            "5. volume":"634878"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"247.1300",
+            "2. high":"247.4698",
+            "3. low":"246.6300",
+            "4. close":"246.8961",
+            "5. volume":"814487"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"246.9000",
+            "2. high":"247.3400",
+            "3. low":"246.6800",
+            "4. close":"247.1650",
+            "5. volume":"625141"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"247.2200",
+            "2. high":"247.5500",
+            "3. low":"246.7584",
+            "4. close":"246.9200",
+            "5. volume":"812088"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"247.2200",
+            "2. high":"247.7699",
+            "3. low":"247.1300",
+            "4. close":"247.2100",
+            "5. volume":"618144"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"247.5500",
+            "2. high":"247.9260",
+            "3. low":"247.2000",
+            "4. close":"247.2018",
+            "5. volume":"775681"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.7000",
+            "2. high":"248.7000",
+            "3. low":"247.4100",
+            "4. close":"247.5600",
+            "5. volume":"968977"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.7650",
+            "2. high":"249.0400",
+            "3. low":"248.3100",
+            "4. close":"248.6900",
+            "5. volume":"565628"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.9295",
+            "2. high":"249.2900",
+            "3. low":"248.1500",
+            "4. close":"248.7500",
+            "5. volume":"888886"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"249.3200",
+            "2. high":"249.4500",
+            "3. low":"248.7200",
+            "4. close":"248.8900",
+            "5. volume":"579155"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"248.9600",
+            "2. high":"249.4900",
+            "3. low":"248.7500",
+            "4. close":"249.3018",
+            "5. volume":"624998"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"250.4299",
+            "2. high":"250.5400",
+            "3. low":"248.7000",
+            "4. close":"248.9775",
+            "5. volume":"1525778"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"250.9019",
+            "2. high":"251.0600",
+            "3. low":"250.3400",
+            "4. close":"250.3950",
+            "5. volume":"349666"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"250.5500",
+            "2. high":"250.9200",
+            "3. low":"250.2600",
+            "4. close":"250.9000",
+            "5. volume":"447051"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"250.2550",
+            "2. high":"250.6000",
+            "3. low":"250.0000",
+            "4. close":"250.5983",
+            "5. volume":"791398"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"250.7088",
+            "2. high":"250.7300",
+            "3. low":"250.1100",
+            "4. close":"250.2580",
+            "5. volume":"452867"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"250.8900",
+            "2. high":"251.0600",
+            "3. low":"250.2100",
+            "4. close":"250.6900",
+            "5. volume":"876731"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"251.2295",
+            "2. high":"251.4500",
+            "3. low":"250.6500",
+            "4. close":"250.8950",
+            "5. volume":"790404"
+        }
+    },
+    {
+        "Meta Data":null,
+        "Time Series (5min)":{
+            "1. open":"252.4200",
+            "2. high":"252.5400",
+            "3. low":"251.0800",
+            "4. close":"251.2300",
+            "5. volume":"844597"
+        }
+    }
+]

@@ -1,0 +1,11 @@
+required libaries:
+- seaborn
+- dotenv
+- pyodbc
+- pandas
+- numpy
+- matplotlib
+- requests
+- json
+
+* FOR TESTING AND COVERAGE: please make sure you have unittest and coverage installed
